@@ -13,7 +13,14 @@ Daily Returns Visual:
 Cumulative Returns Visual: 
 ![cumulative_returns](https://user-images.githubusercontent.com/109967916/200609950-fb9f15e4-fe4e-4ea2-98ed-2da24c21c4cd.png)
 
-Sharpe Ratios for Each Portfolios Box Visual: 
+
+
+Sharpe Ratios for Each Portfolios Box Visual:
+
+
+
+
+
 ![sharpe_ratios](https://user-images.githubusercontent.com/109967916/200610193-2da8afc3-7337-43af-9f70-1973c1cbfab4.png)
 
 
